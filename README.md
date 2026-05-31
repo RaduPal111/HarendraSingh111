@@ -95,7 +95,3 @@ Bachelor of Engineering (BE) — Computer Science (Jul 2008 – May 2012)
 Always learning, building, and improving — I combine **engineering fundamentals with cutting-edge tech** to solve real-world problems efficiently.  
 
 ---
-
-<div align="center">
-<img src="/mnt/data/a_wide_high_resolution_dark_themed_infographic.png" alt="Harendra Singh Developer Infographic" width="100%"/>
-</div>
